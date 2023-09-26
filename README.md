@@ -1,1 +1,1 @@
-# worktech
+Proposta de página criada com foco na importância das tags semânticas em uma estrutura HTML. Essas tags aprimoram a acessibilidade, SEO (Search Engine Optimization) e organização do conteúdo. (Resultado de um dos primeiros desafios propostos nas aulas do curso 'Elas na Tech' - JA Brasil).
